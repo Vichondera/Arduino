@@ -1,0 +1,7 @@
+        >>>>>>>>>> >< <<<<<<<<<<
+     >>> 12V RGB LED Controller <<<
+ Controlling via Bluetooth & Android App
+
+Needed parts:
+>>> Arduino Uno
+ 
