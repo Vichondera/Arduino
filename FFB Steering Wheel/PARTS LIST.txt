@@ -1,0 +1,8 @@
+           >>>>>>>>>> >< <<<<<<<<<<
+    >>> Force FeedBack Racing Simulator <<<
+           >>>>>>>>>> >< <<<<<<<<<
+                Needed parts:
+           >>>>>>>>>> >< <<<<<<<<<
+          
+    >>> Arduino Leonardo ATmega32u4 <<<
+    >>> 
