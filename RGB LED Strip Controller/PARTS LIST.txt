@@ -1,8 +1,0 @@
- >>> 12V RGB LED Strip Controller <<<
-Controlling via Bluetooth & Android App
-
-          Needed parts:
-    >>>>>>>>>> [] <<<<<<<<<
-    
---> Arduino Uno
- 
