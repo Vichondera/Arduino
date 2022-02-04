@@ -41,33 +41,33 @@ void loop()
 
     if (sum <= 50)
     {
-        analogWrite(Red_LED, 0);
-        analogWrite(Green_LED, 0);
-        analogWrite(Blue_LED, sum);
+        analogWrite(red, 0);
+        analogWrite(green, 0);
+        analogWrite(blue, sum);
     }
     else if (sum < 100 && sum > 50)
     {
-        analogWrite(Red_LED, 0);
-        analogWrite(Green_LED, sum);
-        analogWrite(Blue_LED, sum);
+        analogWrite(red, 0);
+        analogWrite(green, sum);
+        analogWrite(blue, sum);
     }
     else if (sum < 150 && sum > 100)
     {
-        analogWrite(Red_LED, 0);
-        analogWrite(Green_LED, sum);
-        analogWrite(Blue_LED, 0);
+        analogWrite(red, 0);
+        analogWrite(green, sum);
+        analogWrite(blue, 0);
     }
     else if (sum < 200 && sum > 150)
     {
-        analogWrite(Red_LED, sum);
-        analogWrite(Green_LED, sum);
-        analogWrite(Blue_LED, 0);
+        analogWrite(red, sum);
+        analogWrite(green, sum);
+        analogWrite(blue, 0);
     }
     else if (sum < 250 && sum > 150)
     {
-        analogWrite(Red_LED, sum);
-        analogWrite(Green_LED, 0);
-        analogWrite(Blue_LED, 0);
+        analogWrite(red, sum);
+        analogWrite(green, 0);
+        analogWrite(blue, 0);
     }
     delay(10);
 }
